@@ -102,4 +102,4 @@ Inheritance, polymorphism, class hierarchies
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Python_mini_oop_projects.git
+   https://github.com/ShahoodAhmad16/Python_mini_oop_projects.git
